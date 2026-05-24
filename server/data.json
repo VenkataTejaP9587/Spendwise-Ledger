@@ -1,0 +1,247 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Home",
+      "icon": "🏠",
+      "subcategories": [
+        "Rent",
+        "Electricity Bill",
+        "Water Bill",
+        "Groceries",
+        "Maintenance",
+        "Internet",
+        "Phone Bill"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Travel",
+      "icon": "✈️",
+      "subcategories": [
+        "Flights",
+        "Hotels",
+        "Meals",
+        "Local Transport",
+        "Car Rental",
+        "Travel Insurance"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Studies",
+      "icon": "📚",
+      "subcategories": [
+        "Books",
+        "Online Courses",
+        "Stationery",
+        "Tuition",
+        "Research Materials",
+        "Software"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Trips",
+      "icon": "🎒",
+      "subcategories": [
+        "Entertainment",
+        "Activities",
+        "Souvenirs",
+        "Photography",
+        "Tours",
+        "Equipment"
+      ]
+    }
+  ],
+  "expenses": [
+    {
+      "id": 1773338368648,
+      "amount": 7000,
+      "category": "Home",
+      "subcategory": "Rent",
+      "description": "SVR Grand",
+      "date": "2026-03-12"
+    },
+    {
+      "id": 1773338466811,
+      "amount": 1200,
+      "category": "Travel",
+      "subcategory": "Car Rental",
+      "description": "Wedding",
+      "date": "2026-03-08"
+    },
+    {
+      "id": 1773338522328,
+      "amount": 940,
+      "category": "Home",
+      "subcategory": "Phone Bill",
+      "description": "Airtel",
+      "date": "2026-03-12"
+    },
+    {
+      "id": 1773338562974,
+      "amount": 550,
+      "category": "Travel",
+      "subcategory": "Local Transport",
+      "description": "Petrol",
+      "date": "2026-03-05"
+    },
+    {
+      "id": 1773338614352,
+      "amount": 1000,
+      "category": "Studies",
+      "subcategory": "Online Courses",
+      "description": "NPTEL",
+      "date": "2026-03-01"
+    },
+    {
+      "id": 1773338664573,
+      "amount": 200,
+      "category": "Trips",
+      "subcategory": "Entertainment",
+      "description": "Dhurandhar",
+      "date": "2026-02-04"
+    },
+    {
+      "id": 1773338720348,
+      "amount": 150,
+      "category": "Home",
+      "subcategory": "Groceries",
+      "description": "Biryani",
+      "date": "2026-03-12"
+    },
+    {
+      "id": 1773338770883,
+      "amount": 350,
+      "category": "Trips",
+      "subcategory": "Photography",
+      "description": "Bhongir Fort",
+      "date": "2026-03-08"
+    },
+    {
+      "id": 1773338883081,
+      "amount": 2200,
+      "category": "Studies",
+      "subcategory": "Tuition",
+      "description": "VMEG",
+      "date": "2026-03-12"
+    },
+    {
+      "id": 1773338931299,
+      "amount": 950,
+      "category": "Trips",
+      "subcategory": "Tours",
+      "description": "Train to NLR",
+      "date": "2026-01-09"
+    },
+    {
+      "id": 1773339335686,
+      "amount": 100,
+      "category": "Home",
+      "subcategory": "Electricity Bill",
+      "description": "Test Expense",
+      "date": "2026-03-12",
+      "userEmail": "user1@test.com"
+    },
+    {
+      "id": 1773339593134,
+      "amount": 200,
+      "category": "Studies",
+      "subcategory": "Books",
+      "description": "Test Travel Expense",
+      "date": "2026-03-12",
+      "userEmail": "user1@test.com"
+    },
+    {
+      "id": 1773340373397,
+      "amount": 7000,
+      "category": "Home",
+      "subcategory": "Rent",
+      "description": "SVR",
+      "date": "2026-03-01",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773340429310,
+      "amount": 550,
+      "category": "Travel",
+      "subcategory": "Local Transport",
+      "description": "Petrol",
+      "date": "2026-03-08",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773340452436,
+      "amount": 1000,
+      "category": "Studies",
+      "subcategory": "Online Courses",
+      "description": "NPTEL",
+      "date": "2026-02-12",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773340475086,
+      "amount": 300,
+      "category": "Trips",
+      "subcategory": "Photography",
+      "description": "Bhongir Fort",
+      "date": "2026-03-09",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773340526217,
+      "amount": 940,
+      "category": "Home",
+      "subcategory": "Phone Bill",
+      "description": "Airtel",
+      "date": "2026-02-20",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773340567925,
+      "amount": 1200,
+      "category": "Travel",
+      "subcategory": "Car Rental",
+      "description": "Wedding",
+      "date": "2026-03-07",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773340590866,
+      "amount": 250,
+      "category": "Trips",
+      "subcategory": "Entertainment",
+      "description": "Dhurandhar",
+      "date": "2026-01-12",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773340635585,
+      "amount": 450,
+      "category": "Travel",
+      "subcategory": "Local Transport",
+      "description": "Train to NLR",
+      "date": "2026-03-12",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773340663406,
+      "amount": 2200,
+      "category": "Studies",
+      "subcategory": "Tuition",
+      "description": "VMEG",
+      "date": "2026-02-25",
+      "userEmail": "venkat@gmail.com"
+    },
+    {
+      "id": 1773378172122,
+      "amount": 600,
+      "category": "Trips",
+      "subcategory": "Activities",
+      "description": "Hackathon",
+      "date": "2026-03-03",
+      "userEmail": "venkat@gmail.com"
+    }
+  ]
+}
